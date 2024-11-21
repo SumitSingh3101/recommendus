@@ -79,7 +79,7 @@ const AboutMe = () => {
           </div>
           <img
             style={{ width: "100%", height: "100%", objectFit: "cover" }}
-            src="https://removal.ai/wp-content/uploads/2021/09/black-background-08-vecteezy.png"
+            src="https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg"
             alt="Background"
           />
         </div>
