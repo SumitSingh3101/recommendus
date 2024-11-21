@@ -18,11 +18,11 @@ const AboutMe = () => {
           >
             <img
               style={{ borderRadius: "50%" }}
-              src="https://media.licdn.com/dms/image/v2/D4D03AQG85Ge_by64Ew/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697732806096?e=1737590400&v=beta&t=JgVZN83oFRsEvOKgQ52b3B1ADmnmIcPZ6QQfR8g7J-M"
+              src="https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.jpg"
               alt="Sumit Singh Ranawat"
             />
             <div style={{ width: "fit-content" }}>
-              <h1 style={{ fontSize: "4vw", color: "#d1d5db" }}>Namaste!</h1>
+              <h1 style={{ fontSize: "4vw", color: "#d1d5db" }}>Namaste Doston!</h1>
               <h1 style={{ fontSize: "4vw", color: "#facc15" }}>I'm Sumit Singh Ranawat</h1>
               <p style={{ width: "30vw", color: "#d1d5db", fontSize: "1vw" }}>
                 Currently pursuing a BTech in CSE (Hons.) with a specialization in Full Stack Development at Lovely Professional University. Passionate about web development, I excel in working with Express, MongoDB, MySQL, and have expertise in programming languages like C, C++, Python, and JavaScript. Skilled in Data Structures and Algorithms, I enjoy bringing websites to life through animations and innovative design thinking. Let’s explore the limitless potential of technology together!
