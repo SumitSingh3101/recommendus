@@ -1,13 +1,22 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html, body, #root, .App{
+  min-height: 100%;
+}
+
+/* Add this to index.css or a specific CSS file */
+.about-me {
+  padding: 20px;
+  text-align: center;
+}
+.about-me h1 {
+  color: #333;
+  font-size: 2rem;
+}
+.about-me p {
+  font-size: 1.2rem;
+  line-height: 1.5;
 }
